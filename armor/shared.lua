@@ -1,7 +1,7 @@
 DEFINE_BASECLASS( "base_gmodentity" )
 
 ENT.PrintName		= "Armor"
-ENT.Author		    = "Reidmaster"
+ENT.Author		    = "Xenvious"
 ENT.Information		= "Armor"
 ENT.Category		= "TKServers"
 
