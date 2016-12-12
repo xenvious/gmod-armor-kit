@@ -1,2 +1,8 @@
 # gmod-armor-kit
-Armor Kit for Garry's Mod DarkRP
+This is a simple Armor Kit for DarkRP.
+
+Installation
+Place "armor" folder in garrysmod/addons
+
+Support
+Like my Addons? Consider Donating to my Paypal! https://www.paypal.me/Xenvious
